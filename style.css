@@ -7,7 +7,6 @@
     margin: 0;
     padding: 0;
 
-    /* Settings to get a "cleaner" looking text */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -157,6 +156,7 @@ main a:hover {
     top: 44px;
     z-index: -1;
     width: 100%;
+    opacity: 0;
 }
 
 .promo__branding img {
